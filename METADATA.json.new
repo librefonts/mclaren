@@ -1,0 +1,24 @@
+{
+  "name": "McLaren",
+  "designer": "Astigmatic",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 31885,
+  "fonts": [
+    {
+      "name": "McLaren",
+      "style": "normal",
+      "weight": 400,
+      "filename": "McLaren-Regular.ttf",
+      "postScriptName": "McLaren-Regular",
+      "fullName": "McLaren-Regular",
+      "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"McLaren\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-08-13"
+}
